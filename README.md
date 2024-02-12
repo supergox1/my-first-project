@@ -1,2 +1,3 @@
 # my-first-project
-Setting up this repository as a test and also practice assignment on AITI
+This project creates an API that manages the database of students in a particular educational institution.
+
